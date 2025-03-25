@@ -25,7 +25,8 @@ body {
   overflow: hidden;
   margin-left: 20px;
   margin-bottom: 20px;
-  background-color:  rgba(227, 235, 233, 0.8);
+  background-color:  rgba(227, 235, 233, 0.8); 
+  border: 5px solid rgba(0, 0, 255, 50%);
 }
 
 .kepkeret img {
@@ -33,7 +34,7 @@ body {
   position: relative;
   left: -5px;
   border-bottom: 1px solid black;
-  border: 5px solid rgba(0, 0, 255, 50%);
+
 }
 
 h1, h2 {
